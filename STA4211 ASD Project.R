@@ -25,7 +25,7 @@ asdEstcost <- plot(asd$years, asd$estcost, main="Estimated Cost of ASD from 2000
 abline(lm(asd$estcost~asd$years))
 asdEstcost
 
-#plots comparing female ASD rates and male ASD rates with regression line
+#plots comparing female ASD rates and male ASD rates with regression lines, blue for boys and red for girls
 asdGirlsVsBoys <- plot(asd$years, asd$girls, main="Prevalence of ASD in Girls vs Boys from 2000-2014", xlab="Years from 2000", ylab="Prevalence", ylim=c(0,30), pch=19)
 abline(lm(asd$girls~asd$years), col = "red")
 par(new = TRUE)
