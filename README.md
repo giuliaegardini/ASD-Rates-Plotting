@@ -1,4 +1,4 @@
-# ASD Rates Project Fall 2019
+# Autism Spectrum Disorder Rates
 Project from my Design of Experiments course (STA 4211) in which I compared trends of Autism Spectrum Disorder (ASD) from 2000 to 2014, including rates between males and females and estimated annual costs of ASD care.
 
 ## Data
