@@ -14,7 +14,10 @@ The ASD rates for girls increased in prevalence (per 1000 children) from 2.7 in 
 
 # References
 “Autism Spectrum Disorder (ASD).” National Institute of Mental Health, U.S. Department of Health and Human Services, https://www.nimh.nih.gov/health/statistics/autism-spectrum-disorder-asd.shtml.
+
 “Data & Statistics on Autism Spectrum Disorder.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 3 Sept. 2019, https://www.cdc.gov/ncbddd/autism/data.html.
+
 “The Autism Community in Action (TACA).” The Autism Community in Action TACA, https://tacanow.org/autism-statistics/.
+
 Wright, Jessica. “The Real Reasons Autism Rates Are Up in the U.S.” Scientific American, Scientific American, 3 Mar. 2017, https://www.scientificamerican.com/article/the-real-reasons-autism-rates-are-up-in-the-u-s/.
 
